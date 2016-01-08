@@ -1,6 +1,6 @@
 {
   "name": "parse-aws-lambda-name",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Parse an AWS Lambda function name into a name and a qualifier",
   "license": "MIT",
   "repository": "SamVerschueren/parse-aws-lambda-name",
